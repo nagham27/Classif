@@ -14,7 +14,7 @@ if used without a driver file:
 run python3 ooclassifier.py <file_name> in the terminal.
 
 if used with a driver file:
-run python3 <driver_file> <file_name> in the terminal
+run python3 <driver_file> <file_name> in the terminal.
 
 Note: the driver script should import ooclassifier using "from ooclassifier import * ".
 
