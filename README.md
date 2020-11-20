@@ -20,7 +20,10 @@ Note: the driver script should import ooclassifier using "from ooclassifier impo
 
 Assumptions:
 1)Training instances in the file have labels that start with '#'.
+
 2)Comments start with '%' in the file.
+
 3)pos-features in a file start with '%pos-features' followed by all positive features.
+
 4)pos-label in a file starts with '%pos-label' followed by the positive label.
  
