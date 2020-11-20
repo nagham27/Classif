@@ -19,6 +19,7 @@ Note: the driver script should import ooclassifier using "from ooclassifier impo
 
 
 Assumptions:
+
 1)Training instances in the file have labels that start with '#'.
 
 2)Comments start with '%' in the file.
